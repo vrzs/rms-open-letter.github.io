@@ -2541,6 +2541,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vincent Esche
 1. Vincent Huang Jiahao
 1. Vincent Milum Jr (@DarkainMX)
+1. Vincent Rozanès
 1. Vincent Singer (aka cukmekerb)
 1. Vincent Wong
 1. Vincenzo Palazzo (@vincenzopalazzo)
